@@ -1,0 +1,4 @@
+bosh-deployment/
+deployments/
+
+.envrc
